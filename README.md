@@ -1,8 +1,7 @@
-# React + Vite
+# IranJack Co. Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://iranjacktask.aryaprogram.com/
 
-Currently, two official plugins are available:
+### A simple, responsive UI for desktop and mobile built with React and Chart.js
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was created for a company's interview and closely follows the exact design specifications I was given. It does not include any functionality and is not a finished UI, but it faithfully matches what was requested.
