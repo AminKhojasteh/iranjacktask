@@ -32,7 +32,7 @@ function TitleBar() {
         <div className="flex gap-2">
           <IconDots className="h-8 w-8 fill-gray03 p-1.5" />
           <div className="relative w-8">
-            <img src="./src/assets/img/Avatar.png" className="w-8" />
+            <img src="avatar.png" className="w-8" />
             <IconTick className="absolute bottom-0 right-0 h-[10px] w-[10px]" />
           </div>
         </div>

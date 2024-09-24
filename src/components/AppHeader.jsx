@@ -10,7 +10,7 @@ function AppHeader() {
   return (
     <div className="col-span-2 hidden items-center gap-1 border-b-2 border-gray10 px-5 sm:flex">
       <div className="flex items-center gap-3">
-        <img src="./src/assets/img/VanArsdel.png" className="h-8 w-8" />
+        <img src="VanArsdel.png" className="h-8 w-8" />
         <p className="text-lg font-bold">Van Arsdel</p>
       </div>
       <ul className="flex h-full grow gap-3 px-[10px]">

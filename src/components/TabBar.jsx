@@ -25,7 +25,7 @@ function TabBar() {
   const [activeTab, setActiveTab] = useState("More");
 
   return (
-    <div className="h-full border-t-[0.5px] border-gray10 sm:hidden">
+    <div className="fixed bottom-0 h-[83px] w-full border-t-[0.5px] border-gray10 bg-white sm:hidden">
       <div className="grid h-[60px] grid-cols-5">
         {tabs.map((tab) => (
           <div

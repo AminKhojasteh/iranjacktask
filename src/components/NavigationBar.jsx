@@ -5,7 +5,7 @@ function NavigationBar() {
   return (
     <div className="flex items-center justify-between px-4 sm:hidden">
       <div className="flex items-center gap-3">
-        <img src="./src/assets/img/Avatar.png" className="h-8 w-8" />
+        <img src="avatar.png" className="h-8 w-8" />
         <p className="text-[26px] font-[700] text-gray01">Van Arsdel</p>
       </div>
       <div className="flex items-center justify-between gap-5">
